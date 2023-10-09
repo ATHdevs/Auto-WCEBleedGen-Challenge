@@ -14,13 +14,14 @@ The training dataset consists of 2618 bleeding and non-bleeding WCE frames colle
 
 Our methodology involves training YOLOv5 on the training dataset using the provided binary masks and bounding boxes. We will then validate our model on the test dataset to determine its accuracy in detecting and classifying bleeding and non-bleeding frames. The goal is to develop an AI model that can accurately detect bleeding regions in WCE videos, reducing the burden on gastroenterologists and improving patient outcomes.
 
-## Metrics Table 
+## Metrics 
 
 ![results](https://github.com/ATHdevs/Auto-WCEBleedGen-Challenge/assets/147138099/51ce9ed5-076e-48a4-9231-36d74105ca40)
 
 
 ## 10 best Images of validation dataset showing the prediction and classification
 
+
+
 ##  5 best images selected from testing datasets 1 and 2 separately showing its classification and detection (bounding box with confidence level)
 
-##  Interpretability plot of any 5 best images selected from testing datasets 1 and 2 separately
