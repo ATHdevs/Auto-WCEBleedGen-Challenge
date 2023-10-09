@@ -16,6 +16,9 @@ Our methodology involves training YOLOv5 on the training dataset using the provi
 
 ## Metrics Table 
 
+![results](https://github.com/ATHdevs/Auto-WCEBleedGen-Challenge/assets/147138099/51ce9ed5-076e-48a4-9231-36d74105ca40)
+
+
 ## 10 best Images of validation dataset showing the prediction and classification
 
 ##  5 best images selected from testing datasets 1 and 2 separately showing its classification and detection (bounding box with confidence level)
